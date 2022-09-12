@@ -1,0 +1,19 @@
+.container{
+    display:grid;
+}
+#arriba{
+align-items: center;
+text-align: center;
+border-bottom: 1px solid black;
+align-content: center;
+}
+.bi{
+    font-size: 2em;
+}
+#txa{
+    height: 300px;
+}
+
+#div_btn{
+    align-self: center;
+text-align: center;}
