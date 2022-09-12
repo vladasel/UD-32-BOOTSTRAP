@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+
+}
+h1,p{
+    color: white;
+}
+.container {
+    background-color: rgb(6, 3, 33);
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display:grid;
+    text-align: center;
+
+}
+#candado{
+    font-size: 3em;
+
+}
+form{
+    background-color: gray;
+}
+#btnLogIn{
+    background-color: aquamarine;
+    color:black;
+}
+
+.bi,#opt{
+    background-color: black;
+}
