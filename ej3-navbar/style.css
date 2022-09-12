@@ -1,0 +1,40 @@
+#nav1{
+    background-color:gainsboro;
+    width: auto;
+}
+
+#n{
+    background-color: blue;
+    width: auto;
+}
+.card{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+li a{
+    color: black
+}
+.bg-greylight {
+    background-color: lightgrey;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.bg-blue {
+    background-color: rgb(0, 119, 255);
+}
+
+.float-left {
+    float: left;
+}
+
+.p-0 {
+    padding: 0px !important;
+}
+
+.mt-2-5 {
+    margin-top: 0.7rem!important;
+}
+
